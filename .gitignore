@@ -1,0 +1,12 @@
+# 本地运行时生成，不要提交
+config.json
+libs/
+__pycache__/
+*.pyc
+名单模板.xlsx
+名单模板.csv
+*.log
+
+# IDE
+.idea/
+.vscode/
